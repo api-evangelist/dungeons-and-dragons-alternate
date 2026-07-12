@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://open5e.com/
 common:
+  - type: DomainSecurity
+    url: security/dungeons-and-dragons-alternate-domain-security.yml
   - type: Website
     url: https://open5e.com/
   - type: PublicAPIsListing
