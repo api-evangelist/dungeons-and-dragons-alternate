@@ -1,4 +1,16 @@
 aid: dungeons-and-dragons-alternate
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/dungeons-and-dragons-alternate.png
 name: Dungeons and Dragons (Alternate)
 description: "Includes all monsters and spells from the SRD (System Reference Document) as well as a search API"
 url: https://open5e.com/
