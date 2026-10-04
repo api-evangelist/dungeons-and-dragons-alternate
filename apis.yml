@@ -33,13 +33,13 @@ x-category: "Games & Comics"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Games And Comics
   - Public APIs
+  - Gaming
+  - Tabletop Games
 apis:
   - name: Dungeons and Dragons (Alternate)
     description: "Includes all monsters and spells from the SRD (System Reference Document) as well as a search API"
     humanURL: https://open5e.com/
-    baseURL: https://open5e.com/
     tags:
       - Games And Comics
     properties:
@@ -55,3 +55,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Games And Comics
